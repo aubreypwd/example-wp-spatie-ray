@@ -1,0 +1,19 @@
+{
+    "name": "aubreypwd/wp-spatie-ray",
+    "description": "Example setup with WordPress and Spatie Ray.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aubrey Portwood",
+            "email": "code@aubreypwd.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "johnpbloch/wordpress": "dev-master"
+    },
+    "require-dev": {
+        "spatie/ray": "^1.32"
+    }
+}
