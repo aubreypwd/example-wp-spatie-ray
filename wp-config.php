@@ -85,6 +85,8 @@ if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
 	 * use Spatie\Ray
 	 *
 	 * ... just make sure you run composer install first!
+	 *
+	 * ** Add https://github.com/aubreypwd/code/blob/master/PHP/Misc/spatie-ray-catch-php-errors.php to have Spatie Ray catch errors, notices, etc too! **
 	 */
 }
 
