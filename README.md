@@ -26,6 +26,8 @@ composer require --dev spatie/ray # Require Spatie Ray so I can ray() things...
 
 First run:
 
-```
+```bash
 composer install
 ```
+
+Then move `wp-config.php` to `wordpress/wp-config.php` (or symlink it).
