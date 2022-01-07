@@ -1,6 +1,6 @@
 # What is this?
 
-This is a Re: to Tom Mcfarlin's [Tweet](https://twitter.com/tommcfarlin/status/1479499427429687299) and [blog post](https://tommcfarlin.com/ray-per-project-at-an-application-level/) about how you you can setup a WordPress Project that includes [Spatie Ray](https://spatie.be/products/ray) for debugging!
+This is an example for Tom Mcfarlin's [Tweet](https://twitter.com/tommcfarlin/status/1479499427429687299) and [blog post](https://tommcfarlin.com/ray-per-project-at-an-application-level/) for setting up a WordPress Project that includes [Spatie Ray](https://spatie.be/products/ray) for debugging!
 
 It also includes WordPress using `composer` as outlined in [this](https://salferrarello.com/install-wordpress-with-composer/) article by [Sal Ferrarello](https://salferrarello.com/).
 
