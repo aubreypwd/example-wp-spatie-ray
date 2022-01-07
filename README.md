@@ -4,7 +4,7 @@ This is an example for Tom Mcfarlin's [Tweet](https://twitter.com/tommcfarlin/st
 
 It also includes WordPress using `composer` as outlined in [this](https://salferrarello.com/install-wordpress-with-composer/) article by [Sal Ferrarello](https://salferrarello.com/).
 
-TLDR: Everything you want to see is in [`composer.json`](composer.json) and [`wp-config.php`](wordpress/wp-config.php)!
+TLDR: Everything you want to see is in [`composer.json`](composer.json) and [`wp-config.php`](wp-config.php)!
 
 ---
 
@@ -20,7 +20,7 @@ composer require --dev spatie/ray # Require Spatie Ray so I can ray() things...
 
 - Modified `index.php` like it says to [here](https://salferrarello.com/install-wordpress-with-composer/)
 - Created `wp-config.php` using `wp config create --dbname=localhost --dbuser=root`
-- Modified [`wp-config.php`](wordpress/wp-config.php) (go see my notes there)
+- Modified [`wp-config.php`](wp-config.php) (go see my notes there)
 
 # If you clone this repo
 
@@ -30,4 +30,4 @@ First run:
 composer install
 ```
 
-Then move `wp-config.php` to `wordpress/wp-config.php` (or symlink it).
+Then move `wp-config.php` to `wp-config.php` (or symlink it).
