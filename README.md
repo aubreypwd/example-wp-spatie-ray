@@ -4,7 +4,7 @@ This is a Re: to Tom Mcfarlin's [Tweet](https://twitter.com/tommcfarlin/status/1
 
 It also includes WordPress using `composer` as outlined in [this](https://salferrarello.com/install-wordpress-with-composer/) article by [Sal Ferrarello](https://salferrarello.com/).
 
-TLDR: Everything you want to see is in `composer.json` and `wp-config.php`!
+TLDR: Everything you want to see is in [`composer.json`](composer.json) and [`wp-config.php`](wordpress/wp-config.php)!
 
 ---
 
