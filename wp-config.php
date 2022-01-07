@@ -69,8 +69,8 @@ $table_prefix = 'wp_';
  */
 
 // See https://salferrarello.com/install-wordpress-with-composer/
-define( 'WP_CONTENT_DIR', dirname(__FILE__) . '/wp-content' );
-define ('WP_CONTENT_URL', 'http://wpsubdir.dev' . '/wp-content' );
+define( 'WP_CONTENT_DIR', dirname( __FILE__ ) . '/wp-content' );
+define( 'WP_CONTENT_URL', 'https://mysite.test' . '/wp-content' ); // Change this to your domain, obviously!
 
 // Spatie Ray modifications
 if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
