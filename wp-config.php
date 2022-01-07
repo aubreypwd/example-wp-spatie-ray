@@ -65,7 +65,7 @@ define( 'WP_CACHE_KEY_SALT', '{ghu.A6AZpPTMCftsXQ0:vH]qN5NDji1Lu,v;M*:zM;U[7<4||
 $table_prefix = 'wp_';
 
 /*
- * ==================================================================
+ * =============================HERE=================================
  */
 
 // See https://salferrarello.com/install-wordpress-with-composer/
@@ -89,7 +89,7 @@ if ( file_exists( __DIR__ . '/vendor/autoload.php' ) ) {
 }
 
 /*
- * ==================================================================
+ * =============================HERE=================================
  */
 
 /* That's all, stop editing! Happy publishing. */
